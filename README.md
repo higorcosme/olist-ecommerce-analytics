@@ -25,25 +25,25 @@ Para transformar os dados brutos em inteligência executiva, o fluxo de dados fo
 
 <img width="767" height="432" alt="image" src="https://github.com/user-attachments/assets/2495b48b-2c63-4ce4-b1f3-9e6f38000602" />
 
-Resultados & Insights:
+**Resultados & Insights:**
 
-Faturamento Total: R$ 13,59 Milhões
-Volume de Pedidos: 99,441 mil pedidos
-Ticket Médio: R$ 136,68
-Índice de Pedidos Entregues: 97,02% de taxa de conclusão
-Geografia e Categorias: A Região Sudeste lidera o faturamento (com SP ultrapassando R$ 5 Mi), enquanto as categorias beleza_saude, relogios_presentes e cama_mesa_banho puxam o volume de vendas.
+* **Faturamento Total:** R$ 13,59 Milhões
+* **Volume de Pedidos:** 99,441 mil pedidos
+* **Ticket Médio:** R$ 136,68
+* **Índice de Pedidos Entregues:** **97,02%** de taxa de conclusão
+* **Geografia e Categorias:** A Região Sudeste lidera o faturamento (com SP ultrapassando R$ 5 Mi), enquanto as categorias `beleza_saude`, `relogios_presentes` e `cama_mesa_banho` puxam o volume de vendas.
 
 2. Análise de Logística & SLA
 
 <img width="766" height="432" alt="image" src="https://github.com/user-attachments/assets/7436169a-4cec-4bd5-9b67-b7c08708a5d8" />
 
-Resultados & Insights:
+**Resultados & Insights:**
 
-Tempo Médio de Entrega: 12,50 dias
-Pedidos Entregues no Prazo: 91,89%
-Taxa de Atraso: 8,11%
-Gargalos Regionais: Alguns estados das regiões Norte e Nordeste (como Roraima, Amapá e Amazonas) apresentam os maiores lead times logísticos, ultrapassando 25 a 29 dias de média.
+* **Tempo Médio de Entrega:** 12,50 dias
+* **Pedidos Entregues no Prazo:** **91,89%**
+* **Taxa de Atraso:** **8,11%**
+* **Gargalos Regionais:** Alguns estados das regiões Norte e Nordeste (como Roraima, Amapá e Amazonas) apresentam os maiores lead times logísticos, ultrapassando 25 a 29 dias de média.
 
-🔗 Links Interativos
-📊 Dashboard Interativo no Power BI: <a href="https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2F79b4a727-2bb9-4d4c-bf15-aac53d237c08%3Fpbi_source%3Ddesktop%26noSignUpCheck%3D1">Dashboard no Power BI</a>
-💼 Post de Apresentação no LinkedIn: <a href="https://lnkd.in/p/dz7Tz5Dr">Post Dashboard</a>
+## 🔗 Links Interativos
+* 📊 **Dashboard Interativo no Power BI:** [Acesse o Relatório](https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2F79b4a727-2bb9-4d4c-bf15-aac53d237c08%3Fpbi_source%3Ddesktop%26noSignUpCheck%3D1)
+* 💼 **Post de Apresentação no LinkedIn:** [Confira o Post](https://lnkd.in/p/dz7Tz5Dr)
